@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amal 👨‍💻🕺🏻<p align="center"><br><img src="https://media.giphy.com/media/wGHzP44u7zBF7iPvCH/giphy.gif" alt="llama"  width="250" height="250"/></p></h1> 
-<h3 align="center">A software engineer from NovaScotia who loves coding!!</h3>
+<h3 align="center">A software engineer from NovaScotia who loves solving coding challenges !!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amalrails&label=Profile%20views&color=0e75b6&style=flat" alt="amal" /> </p>
 
 - 🔭 I’m currently working on [BigBlueButton: an open source web conferencing system](https://bigbluebutton.org/), [Scalelite: open source load balancer that manages a pool of BigBlueButton servers](https://github.com/blindsidenetworks/scalelite)
