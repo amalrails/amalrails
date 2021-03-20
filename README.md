@@ -46,6 +46,4 @@
 </br>
 </br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amalrails&layout=compact" alt="llama" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amalrails&show_icons=true" alt="llama" /></p>
