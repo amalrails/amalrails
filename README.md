@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [BigBlueButton: an open source web conferencing system](https://bigbluebutton.org/), [Scalelite: open source load balancer that manages a pool of BigBlueButton servers](https://github.com/blindsidenetworks/scalelite)
 
-- 🌱 I’m currently learning **Terraform**
+- 🌱 I’m currently learning **Phoenix**
 
 - 💬 Ask me about **RubyOnRails, Ruby, Javascript, Rspec, TDD, Jquery, AWS, Docker, React, Elixir**
 
