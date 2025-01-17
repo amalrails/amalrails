@@ -10,16 +10,7 @@
 
 - 📫 How to reach me **amalsubhash.inbox@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/a-m-a-l/](https://www.linkedin.com/in/a-m-a-l/)
-
 - ⚡ Fun fact **I love movies, books and travelling!!!**
-
-<p align="left">
-<h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/a-m-a-l/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="amal" height="30" width="30" /></a>
-<a href="https://www.instagram.com/la_la_llama_s" target="blank"><img align="center" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" alt="amal" height="35" width="35" /></a>
-<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="amal" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://datashoptalk.com/wp-content/uploads/2018/01/aws-logo.png" alt="aws" width="90" height="60"/> </a> 
